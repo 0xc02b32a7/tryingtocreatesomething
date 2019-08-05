@@ -1,6 +1,6 @@
 
 ### Here i'm stashing some things that may come to handy sometimes.
-If you came here somehow, well, use that if you want. ###
+### If you came here somehow, well, use that if you want.
 
 
 For now this repository contains theese things:
